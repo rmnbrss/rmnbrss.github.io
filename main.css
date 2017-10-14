@@ -4,10 +4,7 @@ p {
   font-family: 'Annie Use Your Telescope';
   font-size: 20;
 }
-body {
-  margin-left: 100;
-  margin-right: 100;
-}
+
 #header {
   color: #1f5687;
   font-size: 50px;
